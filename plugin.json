@@ -1,10 +1,11 @@
 {
-  "name": "MusicControl",
-  "author": "Miro Bouma",
+  "name": "Music Player",
+  "author": "Braklinath",
   "flags": [],
   "publish": {
-    "tags": ["music", "media", "mpris"],
-    "description": "Control running media players using the DBUS interface (MPRIS). Media player has to be started through game mode.",
-    "image": "https://raw.githubusercontent.com/mirobouma/MusicControl/main/assets/screenshot.png"
+    "tags": ["music", "media"],
+    "description": "Provides an interface to access Steams built in music player using Steamworks.",
+    //"image": "https://raw.githubusercontent.com/mirobouma/MusicControl/main/assets/screenshot.png"
+    "image": ""
   }
 }
